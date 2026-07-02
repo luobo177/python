@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/*.dSYM": true,
+        "**/Contents": true,
+        "**/Info.plist": true,
+        "*.out": true
+    }
+}
