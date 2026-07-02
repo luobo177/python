@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 调试文件
+*.dSYM/
+
+# Python
+__pycache__/
+*.pyc
+
+# 可执行文件（Unix）
+*
+!*.c
+!*.h
+!*.py
+!*.md
+!Makefile
+!*.gitignore
+
+# 保留目录
+!*/
